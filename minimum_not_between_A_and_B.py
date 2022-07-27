@@ -9,4 +9,3 @@ if len(k)!=0:
     print(min(k))
 else:
     print(-1)
-            
